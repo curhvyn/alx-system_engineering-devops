@@ -1,1 +1,1 @@
-*Sample Scripts.*
+*Sample Scripts..*
