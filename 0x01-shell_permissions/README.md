@@ -1,1 +1,1 @@
-Sample permissions scripts.
+Sample scripts.
